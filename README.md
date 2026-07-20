@@ -1,2 +1,5 @@
-# phantomui-trading-bot-backup2
-Backup of PhantomUI Trading Bot
+# PhantomUI Trading Bot Backup 2
+
+Live tactical dashboard with real Binance feeds and simulated trades.
+
+Deployed to GitHub Pages.
